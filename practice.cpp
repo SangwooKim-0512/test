@@ -6,3 +6,5 @@ using namespace std;
 int main(){
 printf("Hello World");
 }
+
+안녕하세여 좋은 하루 ^__^
